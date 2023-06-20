@@ -1,12 +1,11 @@
-title = "Your Site Name"
+title = "Rust Wasm Tech"
 # logo = "URL to logo"
 base_url = "http://localhost:3000"
-about = "This site is generated with Bartholomew, the WebAssembly micro-CMS. And this message is in site.toml."
+about = "At Rust Wasm Tech, we are passionate about exploring the intersection of Rust programming and WebAssembly (Wasm) technology. Our goal is to provide insightful articles, tutorials, and resources to help you navigate the exciting landscape of Rust and Wasm."
 index_site_pages = ["blog"]
 
 [extra]
-copyright = "The Site Authors"
-github = "https://github.com/fermyon"
-twitter = "https://twitter.com/fermyontech"
+copyright = "rust-wasm.tech"
+github = "https://github.com/bharattech"
 
 date_style = "%B %e, %Y"
