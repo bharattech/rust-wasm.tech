@@ -2,7 +2,7 @@ title = "Rust Wasm Tech"
 # logo = "URL to logo"
 base_url = "http://localhost:3000"
 about = "At Rust Wasm Tech, we are passionate about exploring the intersection of Rust programming and WebAssembly (Wasm) technology. Our goal is to provide insightful articles, tutorials, and resources to help you navigate the exciting landscape of Rust and Wasm."
-index_site_pages = ["blog"]
+index_site_pages = ["content"]
 
 [extra]
 copyright = "rust-wasm.tech"

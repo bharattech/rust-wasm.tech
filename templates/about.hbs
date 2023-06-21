@@ -1,15 +1,12 @@
 {{> content_top }}
 
 <main class="container">
-    <div class="row mb-2">
-        <div class="col-lg-8 mx-auto">
-
+    <div class="row g-5">
+        <div class="col-md-12">
+    
             <article class="blog-post mt-5">
                 {{#with page.head}}
-                <h1 class="blog-post-title">{{title}}</h2>
-                {{!-- {{#each (page.head.tags)}}
-                <strong class="d-inline-block mb-2 text-primary">{{tag}}</strong>
-                {{/each}} --}}
+                <h1 class="blog-post-title">{{title}}</h1>
                     <p class="blog-post-meta">{{#if extra.date}}Published: {{extra.date}}{{/if}}</p>
                     {{/with}}
                     {{! Since this is HTML, we use the triple-curly }}
@@ -17,9 +14,9 @@
                     {{! Remove the `!` on the line below to see how to call a Rhai script }}
                     {{! echo "world" }}
             </article>
+    
+        </div>
 
-        </div><!-- end col -->
     </div>
 </main>
-
 {{> content_bottom }}

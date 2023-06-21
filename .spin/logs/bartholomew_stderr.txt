@@ -386,3 +386,1161 @@ scripts: registering get_page
 scripts: registering blogs
 Path /content/index.md
 Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/protons.md
+Cannot create Cache file
+Responded: /blog/protons
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/protons.md
+Cannot create Cache file
+Responded: /blog/protons
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/protons.md
+Cannot create Cache file
+Responded: /blog/protons
+Request path: /blog/protons
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/protons.md
+Cannot create Cache file
+Responded: /blog/protons
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/rust-is-a-popular-choice-for-webassembly.md
+Not found: /rust-is-a-popular-choice-for-webassembly
+Request path: /rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/rust-is-a-popular-choice-for-webassembly.md
+Not found: /rust-is-a-popular-choice-for-webassembly
+Request path: /rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/rust-is-a-popular-choice-for-webassembly.md
+Not found: /rust-is-a-popular-choice-for-webassembly
+Request path: /rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/rust-is-a-popular-choice-for-webassembly.md
+Not found: /rust-is-a-popular-choice-for-webassembly
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Not found: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Not found: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Cannot create Cache file
+Responded: /blog/webassembly
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Cannot create Cache file
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Not found: /about
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /blog/
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog.md
+Cannot create Cache file
+Responded: /blog/
+Request path: /blog/
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog.md
+Cannot create Cache file
+Responded: /blog/
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Cannot create Cache file
+Handler returned an error: Rendering "/content/blog/rust-is-a-popular-choice-for-webassembly.md": Template 'blog': Template not found: blog
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Not found: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Cannot create Cache file
+Not found: /about
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Handler returned an error: Rendering "/content/blog/rust-is-a-popular-choice-for-webassembly.md": Template 'blog': Template not found: blog
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Cannot create Cache file
+Not found: /favicon.ico
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Cannot create Cache file
+Not found: /favicon.ico
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Cannot create Cache file
+Not found: /about
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Handler returned an error: Rendering "/content/blog/rust-is-a-popular-choice-for-webassembly.md": Template 'blog': Template not found: blog
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Handler returned an error: Rendering "/content/blog/rust-is-a-popular-choice-for-webassembly.md": Template 'blog': Template not found: blog
+Request path: /blog/
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog.md
+Handler returned an error: Rendering "/content/blog.md": Template 'blog': Template not found: blog
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Not found: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Not found: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Handler returned an error: Rendering "/content/blog/webassembly.md": Template 'blog': Template not found: blog
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Handler returned an error: Rendering "/content/blog/rust-is-a-popular-choice-for-webassembly.md": Template 'blog': Template not found: blog
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Handler returned an error: TOML parsing error: invalid TOML value, did you mean to use a quoted string? at line 4 column 9
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/favicon.md
+Not found: /favicon.ico
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Handler returned an error: Rendering "/content/blog/rust-is-a-popular-choice-for-webassembly.md": Template 'blog': Error rendering "blog" line 10, col 17: Helper not defined: Path(Relative(([Named("page"), Named("tags")], "page.tags")))
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Handler returned an error: Rendering "/content/blog/rust-is-a-popular-choice-for-webassembly.md": Template 'blog': Error rendering "blog" line 10, col 17: Helper not defined: Path(Relative(([Named("page"), Named("head"), Named("tags")], "page.head.tags")))
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-programming-language
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-programming-language.md
+Responded: /blog/rust-programming-language
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/rust-is-a-popular-choice-for-webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/rust-is-a-popular-choice-for-webassembly.md
+Responded: /blog/rust-is-a-popular-choice-for-webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /blog/webassembly
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly.md
+Responded: /blog/webassembly
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Responded: /index
