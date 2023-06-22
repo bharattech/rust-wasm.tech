@@ -2,6 +2,7 @@ title = "Rust programming language"
 date = "2023-01-07T12:05:52.809104222Z"
 template = "blog"
 tags = ["rust"]
+description = "Rust is a programming language known for its focus on safety, speed, and concurrency..."
 
 [extra]
 author = "Bharat Shinde"

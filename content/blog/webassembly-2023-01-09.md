@@ -2,6 +2,7 @@ title = "WebAssembly"
 date = "2023-01-09T12:05:52.809104222Z"
 template = "blog"
 tags = ["wasm", "webassembly"]
+description = "WASM stands for WebAssembly. It is a binary instruction format designed to be executed in web browsers..."
 
 [extra]
 author = "Bharat Shinde"
