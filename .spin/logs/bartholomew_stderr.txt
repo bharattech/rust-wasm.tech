@@ -2438,3 +2438,126 @@ scripts: registering blogs
 Path /content/index.md
 Cannot create Cache file
 Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/webassembly-2023-01-09
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/blog/webassembly-2023-01-09.md
+Responded: /blog/webassembly-2023-01-09
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
