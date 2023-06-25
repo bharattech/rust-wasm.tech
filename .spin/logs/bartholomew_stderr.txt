@@ -2569,3 +2569,120 @@ scripts: registering blogs
 Path /content/index.md
 Cannot create Cache file
 Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /about
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/about.md
+Responded: /about
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/the-choice-between-rust-go-assemblyScript-or-other-languages-2023-02-05
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/the-choice-between-rust-go-assemblyScript-or-other-languages-2023-02-05.md
+Responded: /blog/the-choice-between-rust-go-assemblyScript-or-other-languages-2023-02-05
+Request path: /blog/the-choice-between-rust-go-assemblyScript-or-other-languages-2023-02-05
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/the-choice-between-rust-go-assemblyScript-or-other-languages-2023-02-05.md
+Responded: /blog/the-choice-between-rust-go-assemblyScript-or-other-languages-2023-02-05
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /rust-wasm.tech
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/rust-wasm.md
+Cannot create Cache file
+Not found: /rust-wasm.tech
+Request path: /rust-wasm.tech
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/rust-wasm.md
+Cannot create Cache file
+Not found: /rust-wasm.tech
+Request path: /rust-wasm.tech
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/rust-wasm.md
+Cannot create Cache file
+Not found: /rust-wasm.tech
+Request path: /rust-wasm.tech
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/rust-wasm.md
+Cannot create Cache file
+Not found: /rust-wasm.tech

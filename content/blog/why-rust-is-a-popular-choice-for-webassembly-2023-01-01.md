@@ -1,4 +1,4 @@
-title = "Why Rust lang is a popular choice for WebAssembly ?"
+title = "Why Rust is a popular choice for WebAssembly ?"
 date = "2023-01-01T12:05:52.809104222Z"
 template = "blog"
 tags = ["rust", "wasm", "webassembly"]

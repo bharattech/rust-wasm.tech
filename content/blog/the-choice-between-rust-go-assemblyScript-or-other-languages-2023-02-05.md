@@ -1,4 +1,4 @@
-title = "The choice between Rust, Go, AssemblyScript, or other languages"
+title = "The choice between Rust, Go, AssemblyScript, or other languages for compiling to wasm"
 date = "2023-02-05T17:05:19Z"
 template = "blog"
 tags = ["rust", "wasm", "webassembly"]
