@@ -2686,3 +2686,72 @@ scripts: registering blogs
 Path /content/rust-wasm.md
 Cannot create Cache file
 Not found: /rust-wasm.tech
+Request path: /index
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /sitemap.xml
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Cannot create Cache file
+Not found: /sitemap.xml
+Request path: /sitemap
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Cannot create Cache file
+Not found: /sitemap
+Request path: /sitemap
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Cannot create Cache file
+Not found: /sitemap
+Request path: /sitemap
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Responded: /sitemap
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/favicon.md
+Cannot create Cache file
+Not found: /favicon.ico
+Request path: /sitemap
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Responded: /sitemap
+Request path: /favicon.ico
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/favicon.md
+Cannot create Cache file
+Not found: /favicon.ico
+Request path: /sitemap
+Base URL: Some("http://localhost:3000")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Responded: /sitemap
