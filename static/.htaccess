@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^rust-wasm\.tech$ [NC]
+RewriteRule ^sitemap\.xml$ https://rust-wasm-tech.fermyon.app/sitemap.xml [R=301,L]
