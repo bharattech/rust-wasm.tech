@@ -28,7 +28,6 @@ for item in keys {
         });
         //blog_pages[path] = pages[item];
     }
-   
 }
 // Newest to oldest, assuming you put the date in the URI
 blog_pages.reverse();

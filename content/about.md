@@ -1,4 +1,4 @@
-title = "About rust-wasm.tech blog"
+title = 'About the blog'
 description = "All you need to know about rust + wasm tech"
 template = "about"
 date = "2023-01-01T17:05:19Z"
