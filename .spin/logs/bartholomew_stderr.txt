@@ -2934,3 +2934,112 @@ scripts: registering blogs
 Path /content/sitemap.md
 Cannot create Cache file
 Responded: /sitemap.xml
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog.md
+Responded: /blog
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01.md
+Responded: /blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01
+Request path: /blog/rust-programming-language-2023-01-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/rust-programming-language-2023-01-07.md
+Responded: /blog/rust-programming-language-2023-01-07
+Request path: /blog/webassembly-2023-01-09
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/webassembly-2023-01-09.md
+Responded: /blog/webassembly-2023-01-09
+Request path: /blog/rust-programming-language-2023-01-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/rust-programming-language-2023-01-07.md
+Responded: /blog/rust-programming-language-2023-01-07
+Request path: /blog/rust-programming-language-2023-01-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/rust-programming-language-2023-01-07.md
+Responded: /blog/rust-programming-language-2023-01-07
+Request path: /blog/rust-programming-language-2023-01-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/rust-programming-language-2023-01-07.md
+Responded: /blog/rust-programming-language-2023-01-07
+Request path: /blog/rust-programming-language-2023-01-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/rust-programming-language-2023-01-07.md
+Responded: /blog/rust-programming-language-2023-01-07
+Request path: /blog/rust-programming-language-2023-01-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/rust-programming-language-2023-01-07.md
+Responded: /blog/rust-programming-language-2023-01-07
+Request path: /blog/webassembly-2023-01-09
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/webassembly-2023-01-09.md
+Responded: /blog/webassembly-2023-01-09
+Request path: /blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01.md
+Responded: /blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01

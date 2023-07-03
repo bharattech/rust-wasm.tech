@@ -1,6 +1,14 @@
-title = "Your new blog"
-description = "All you need to know to get started with Bartholomew"
+title = "Rust Wasm Tech!"
+description = "A blog about Rust lang and WebAssembly."
 template = "blog"
 date = "2021-12-23T17:05:19Z"
 ---
-A blog about Bartholomew, the simple CMS for [Spin](https://github.com/fermyon/spin) and WebAssembly.
+A blog about Rust lang and WebAssembly. Answers questions like
+
+Why Rust is a popular choice for WebAssembly?
+
+What is Rust programming language?
+
+What is WebAssembly?
+
+Why to choice between Rust, Go, AssemblyScript, or other languages for compiling to wasm ?
