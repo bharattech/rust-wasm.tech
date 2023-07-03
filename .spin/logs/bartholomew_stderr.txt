@@ -2837,3 +2837,100 @@ scripts: registering sitemap
 scripts: registering blogs
 Path /content/about.md
 Responded: /about
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Responded: /sitemap.xml
+Request path: /favicon.ico
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/favicon.md
+Cannot create Cache file
+Not found: /favicon.ico
+Request path: /about
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/about.md
+Cannot create Cache file
+Responded: /about
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Handler returned an error: Rendering "/content/sitemap.md": Template 'sitemap': Error rendering "sitemap" line 12, col 5: Helper not defined: Path(Relative(([Named("site"), Named("pages")], "site.pages")))
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Handler returned an error: Rendering "/content/sitemap.md": Template 'sitemap': Error rendering "sitemap" line 12, col 5: Helper not defined: Path(Relative(([Named("site"), Named("pages")], "site.pages")))
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Responded: /sitemap.xml
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Cannot create Cache file
+Responded: /sitemap.xml
+Request path: //blog
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog.md
+Responded: //blog
+Request path: /blog
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog.md
+Responded: /blog
+Request path: /blog
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog.md
+Responded: /blog
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Cannot create Cache file
+Responded: /sitemap.xml
