@@ -3043,3 +3043,46 @@ scripts: registering sitemap
 scripts: registering blogs
 Path /content/blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01.md
 Responded: /blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/some-popular-runtimes-fr-webassembly-2012-07-07.md
+Responded: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Request path: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/some-popular-runtimes-fr-webassembly-2012-07-07.md
+Responded: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Request path: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/some-popular-runtimes-fr-webassembly-2012-07-07.md
+Responded: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Request path: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/some-popular-runtimes-fr-webassembly-2012-07-07.md
+Responded: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Request path: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/some-popular-runtimes-fr-webassembly-2012-07-07.md
+Responded: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
