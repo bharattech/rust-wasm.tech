@@ -3086,3 +3086,51 @@ scripts: registering sitemap
 scripts: registering blogs
 Path /content/blog/some-popular-runtimes-fr-webassembly-2012-07-07.md
 Responded: /blog/some-popular-runtimes-fr-webassembly-2012-07-07
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Cannot create Cache file
+Responded: /sitemap.xml
+Request path: /favicon.ico
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/favicon.md
+Cannot create Cache file
+Not found: /favicon.ico
+Request path: /sitemap.xml
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/sitemap.md
+Cannot create Cache file
+Responded: /sitemap.xml
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /favicon.ico
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/favicon.md
+Cannot create Cache file
+Not found: /favicon.ico
