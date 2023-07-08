@@ -1,5 +1,5 @@
 title = "Story of WebAssembly Logo"
-date = "2023-07-09T12:05:52.809104222Z"
+date = "2023-07-02T12:05:52.809104222Z"
 template = "blog"
 tags = ["wasm", "webassembly"]
 description = "Story of WebAssembly Logo..."
@@ -10,7 +10,9 @@ type = "post"
 
 ---
 
-## The Story of WebAssembly Logo: Uniting the World of High-Performance Web Applications
+## Designed the official logo for WebAssembly.
+
+![Logo](https://rust-wasm-tech.fermyon.app/presentation.png)
 
 In the vast landscape of web development, a new technology has emerged, promising to revolutionize the way we build and run applications on the web. This technology is WebAssembly, a binary format that allows developers to execute high-performance code directly in the browser. With its ability to bring near-native performance to web applications, WebAssembly has gained significant attention and support from major browser vendors, paving the way for a new era of web development.
 
