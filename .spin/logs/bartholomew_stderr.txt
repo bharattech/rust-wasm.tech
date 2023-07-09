@@ -3406,3 +3406,70 @@ scripts: registering blogs
 Path /content/presentation.md
 Cannot create Cache file
 Not found: /presentation.png
+Request path: /blog/story-of-webassembly-logo-2023-07-09
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-09.md
+Cannot create Cache file
+Not found: /blog/story-of-webassembly-logo-2023-07-09
+Request path: /blog/story-of-webassembly-logo-2023-07-09
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-09.md
+Cannot create Cache file
+Not found: /blog/story-of-webassembly-logo-2023-07-09
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /presentation.png
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/presentation.md
+Cannot create Cache file
+Not found: /presentation.png
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
