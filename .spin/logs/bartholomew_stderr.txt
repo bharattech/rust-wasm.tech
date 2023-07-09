@@ -3473,3 +3473,165 @@ scripts: registering sitemap
 scripts: registering blogs
 Path /content/blog/story-of-webassembly-logo-2023-07-02.md
 Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+Handler returned an error: Template error: helper "if" was opened, but "with" is closing
+    --> Template error in "blog":12:17
+     |
+   9 |                 {{#if extra.hero}}
+  10 |                     <img src="https://rust-wasm-tech.fermyon.app/static/image/{{extra.hero}}" width="100%" />
+  11 |                 {{/with}}
+     |-----------------^-------
+  12 |                 {{!-- {{#each (page.head.tags)}}
+  13 |                 <strong class="d-inline-block mb-2 text-primary">{{tag}}</strong>
+  14 |                 {{/each}} --}}
+  15 |                 
+     |
+     = reason: helper "if" was opened, but "with" is closing
+
+Request path: /favicon.ico
+Base URL: Some("https://rust-wasm.tech")
+Handler returned an error: Template error: helper "if" was opened, but "with" is closing
+    --> Template error in "blog":12:17
+     |
+   9 |                 {{#if extra.hero}}
+  10 |                     <img src="https://rust-wasm-tech.fermyon.app/static/image/{{extra.hero}}" width="100%" />
+  11 |                 {{/with}}
+     |-----------------^-------
+  12 |                 {{!-- {{#each (page.head.tags)}}
+  13 |                 <strong class="d-inline-block mb-2 text-primary">{{tag}}</strong>
+  14 |                 {{/each}} --}}
+  15 |                 
+     |
+     = reason: helper "if" was opened, but "with" is closing
+
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01.md
+Responded: /blog/why-rust-is-a-popular-choice-for-webassembly-2023-01-01
+Request path: /index
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/index.md
+Cannot create Cache file
+Responded: /index
+Request path: /blog/story-of-webassembly-logo-2023-07-02
+Base URL: Some("https://rust-wasm.tech")
+scripts: registering get_page
+scripts: registering sitemap
+scripts: registering blogs
+Path /content/blog/story-of-webassembly-logo-2023-07-02.md
+Responded: /blog/story-of-webassembly-logo-2023-07-02

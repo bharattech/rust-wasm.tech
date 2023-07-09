@@ -7,11 +7,13 @@
             <article class="blog-post mt-5">
                 {{#with page.head}}
                 <h1 class="blog-post-title mb-5">{{title}}</h2>
-
-                <img scr="{{site.info.base_url}}/static/image/{{extra.hero}}" />
+                {{#if extra.hero}}
+                    <img src="https://rust-wasm-tech.fermyon.app/static/image/{{extra.hero}}" width="100%" />
+                {{/if}}
                 {{!-- {{#each (page.head.tags)}}
                 <strong class="d-inline-block mb-2 text-primary">{{tag}}</strong>
                 {{/each}} --}}
+                
                     <p class="blog-post-meta">{{#if extra.date}}Published: {{extra.date}}{{/if}}</p>
                     {{/with}}
                     {{! Since this is HTML, we use the triple-curly }}
